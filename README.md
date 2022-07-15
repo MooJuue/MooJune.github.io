@@ -1,2 +1,2 @@
-# .github.io
+# MooJune
 A new Project!
